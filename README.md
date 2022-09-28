@@ -7,7 +7,7 @@
 ![ESP32-Drone-Top](./ESP32_Drone_Top.png)
 ![ESP32-Drone-Bottom](./ESP32_Drone_Bottom.png)
 
-Hardware design for dron based of ESP32 and BME6050. It desinged using KiCad 6. Parts chosen for both low cost and stocks availability.
+Hardware design for drone based of ESP32 and BME6050. It desinged using KiCad 6. Parts chosen for both low cost and stocks availability.
 
 ### Features
 
