@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SIP2100DY-T1-GE3")(type "Legacy")(uri "${KIPRJMOD}/library/SIP2100DY-T1-GE3.lib")(options "")(descr ""))
+  (lib (name "TPS62082DSGT")(type "Legacy")(uri "${KIPRJMOD}/library/TPS62082DSGT.lib")(options "")(descr ""))
+  (lib (name "XC6802A42XMR-G")(type "Legacy")(uri "${KIPRJMOD}/library/XC6802A42XMR-G.lib")(options "")(descr ""))
+)
